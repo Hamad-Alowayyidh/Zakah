@@ -1,2 +1,2 @@
 # Zakah
-This code will calculate Zakah in Saudi Riyals.
+This code will calculate Zakah in Saudi Arabia
